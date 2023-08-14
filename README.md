@@ -24,7 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"  title="Anaconda" width="50" height="50"/>
 </div>
           
-<!---         
+<!---
+- 👨‍💻 - About
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
