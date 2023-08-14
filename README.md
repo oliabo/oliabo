@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" width="50" height="50"/>
   <img src="https://matplotlib.org/_static/images/documentation.svg" title="Matplotlib" width="50" height="50"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="seaborn" width="50" height="50"/>
+  <img src="https://github.com/mwaskom/seaborn/blob/master/doc/_static/logo-mark-darkbg.svg" title="seaborn" width="50" height="50"/>
   <img src="https://scipy.org/images/logo.svg" title="SciPy" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" title="Keras" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="50" height="50"/>
