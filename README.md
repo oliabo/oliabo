@@ -2,7 +2,7 @@
 <h1>👋 Hey, I’m Olya </h1>
 I am learning Python, Data Analytics and Machine Learning. I want to apply my knowledge at work and continue learning. I am actively looking for a job in the field of big data.
 <h3>Data analyst / Data scientist: </h3>
-Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
+Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras, SQL
  <div id="badges">
   <a href="https://ru.linkedin.com/in/oly-bobkova">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
